@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir chmod g-w,o-wr my_dir
