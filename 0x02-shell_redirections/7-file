@@ -1,2 +1,2 @@
 #!/bin/bash
-name='\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)' ; echo 'Best School' > $name
+touch "/\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)" | echo 'Best School' 
